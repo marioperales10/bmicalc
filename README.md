@@ -4,3 +4,10 @@
 A biomedical calculator for the body mass index (BMI) and other parameters.
 
 
+# TEST:
+
+1º BMITest 
+2º Categorytest1 
+3º Categorytest2
+4º BooleanTest1
+5º BooleanTest2
