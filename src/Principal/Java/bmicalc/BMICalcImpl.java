@@ -24,7 +24,7 @@ public class BMICalcImpl  implements BMICalc {
 		else if (bmi >= 18.5  && bmi <= 24.9) {
 			result = "NORMAL";
 		}	
-		else if (bmi <= 25.0 && bmi <= 29.0) {
+		else if (bmi >= 25.0 && bmi <= 29.0) {
 			result = "OVERWEIGHT";
 		}
 		
